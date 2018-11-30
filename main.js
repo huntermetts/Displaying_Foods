@@ -1,7 +1,7 @@
 // Function that creates DOM elements | MASTER FUNCTION
 function appendAndCreateElements(name, type, ethnic){
     // Declarations:
-    let container = document.querySelector('#foodListId')
+    let container = document.querySelector('#foodListId');
     let foodSections = document.createElement("section");
     let foodName = document.createElement("h1");
     let foodType = document.createElement("p");
@@ -42,13 +42,8 @@ fetch("http://localhost:8088/food")
         console.table(allFoods)
         }
         )
-    })  
+    })
 
 
 
 
-
-
-
-
-    
