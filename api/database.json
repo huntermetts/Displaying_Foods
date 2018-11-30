@@ -59,6 +59,36 @@
       "type": "fruit",
       "ethnicity": "floridian",
       "id": 11
+    },
+    {
+      "name": "apple",
+      "type": "fruit",
+      "ethnicity": "Johnny Appleseed",
+      "id": 12
+    },
+    {
+      "name": "grilled cheese",
+      "type": "sandwich",
+      "ethnicity": "American",
+      "id": 13
+    },
+    {
+      "name": "Potato",
+      "type": "Veggie",
+      "ethnicity": "Peruvian",
+      "id": 14
+    },
+    {
+      "name": "McDouble",
+      "type": "Unknown",
+      "ethnicity": "American",
+      "id": 15
+    },
+    {
+      "name": "Turkey and Cheese",
+      "type": "Sandwitch",
+      "ethnicity": "English",
+      "id": 16
     }
   ]
 }
