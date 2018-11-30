@@ -4,91 +4,71 @@
       "id": 1,
       "name": "Linguine",
       "type": "pasta",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "8076809523509"
     },
     {
       "id": 2,
       "name": "Massaman curry",
       "type": "curry",
-      "ethnicity": "thai"
+      "ethnicity": "thai",
+      "barcode": "3270160868681"
     },
     {
       "id": 3,
       "name": "Green curry",
       "type": "curry",
-      "ethnicity": "thai"
+      "ethnicity": "thai",
+      "barcode": "8906021120487"
     },
     {
       "id": 4,
       "name": "Ravioli Funghi",
       "type": "pasta",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "8001665127585"
     },
     {
       "id": 5,
       "name": "Tuscan Soup",
       "type": "vegetarian",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "5000169116562"
     },
     {
       "name": "Tacos Pastor",
       "type": "taco",
       "ethnicity": "mexican",
-      "id": 6
+      "id": 6,
+      "barcode": "8410076472656"
     },
     {
       "name": "icecream",
       "type": "treat",
       "ethnicity": "iceland",
-      "id": 8
+      "id": 8,
+      "barcode": "0076840600038"
     },
     {
       "name": "yogurt",
       "type": "dairy",
       "ethnicity": "greenland",
-      "id": 9
+      "id": 9,
+      "barcode": "3023290634578"
     },
     {
-      "name": "bananna",
+      "name": "banana",
       "type": "fruit",
       "ethnicity": "south american",
-      "id": 10
+      "id": 10,
+      "barcode": "9300633076986 "
     },
     {
-      "name": "orange",
-      "type": "fruit",
-      "ethnicity": "floridian",
-      "id": 11
-    },
-    {
-      "name": "apple",
-      "type": "fruit",
-      "ethnicity": "Johnny Appleseed",
-      "id": 12
-    },
-    {
-      "name": "grilled cheese",
-      "type": "sandwich",
-      "ethnicity": "American",
-      "id": 13
-    },
-    {
-      "name": "Potato",
-      "type": "Veggie",
-      "ethnicity": "Peruvian",
-      "id": 14
-    },
-    {
-      "name": "McDouble",
-      "type": "Unknown",
-      "ethnicity": "American",
-      "id": 15
-    },
-    {
-      "name": "Turkey and Cheese",
-      "type": "Sandwitch",
-      "ethnicity": "English",
-      "id": 16
+      "name": "orange juice",
+      "type": "beverage",
+      "ethnicity": "the factory",
+      "id": 11,
+      "barcode": "3596710284542"
     }
   ]
 }
