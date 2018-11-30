@@ -1,0 +1,64 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 2,
+      "name": "Massaman curry",
+      "type": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 3,
+      "name": "Green curry",
+      "type": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "type": "vegetarian",
+      "ethnicity": "italian"
+    },
+    {
+      "name": "Tacos Pastor",
+      "type": "taco",
+      "ethnicity": "mexican",
+      "id": 6
+    },
+    {
+      "name": "icecream",
+      "type": "treat",
+      "ethnicity": "iceland",
+      "id": 8
+    },
+    {
+      "name": "yogurt",
+      "type": "dairy",
+      "ethnicity": "greenland",
+      "id": 9
+    },
+    {
+      "name": "bananna",
+      "type": "fruit",
+      "ethnicity": "south american",
+      "id": 10
+    },
+    {
+      "name": "orange",
+      "type": "fruit",
+      "ethnicity": "floridian",
+      "id": 11
+    }
+  ]
+}
