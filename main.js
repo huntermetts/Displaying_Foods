@@ -1,5 +1,5 @@
 // Function that creates DOM elements | MASTER FUNCTION
-function appendAndCreateElements(){
+function appendAndCreateElements(name, type, ethnic){
     // Declarations:
     let container = document.querySelector('#foodListId')
     let foodSections = document.createElement("section");
@@ -11,14 +11,14 @@ function appendAndCreateElements(){
     container.appendChild(foodSections);
 
     foodSections.appendChild(foodName); 
-    foodName.innerHTML = "The name of the food will be here";  
+    foodName.innerHTML = name;  
     foodName.classList.add("sections");
 
     foodName.appendChild(foodType);
-    foodType.innerHTML = "The type of the food will be here";
+    foodType.innerHTML = type;
 
     foodName.appendChild(foodEthnicity);
-    foodEthnicity.innerHTML = "The ethnicity of the food will be here";
+    foodEthnicity.innerHTML = ethnic;
 
     // Creating text elements:
     // foodEthnicity.innerHTML = "The ethnicity of the food will be here";
@@ -38,7 +38,8 @@ fetch("http://localhost:8088/food")
 // These lines accept the newly converted js object as an arguement to a function, and then console.logs a table with the data
     .then(parsedFoods => {
         parsedFoods.forEach(function(allFoods){
-        appendAndCreateElements();
+        appendAndCreateElements(allFoods.name, allFoods.type, allFoods.ethnicity);
+        console.table(allFoods)
         }
         )
     })  
