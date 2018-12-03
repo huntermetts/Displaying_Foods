@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC:300');
 
+body{
+    background-color: rgb(63, 68, 78);
+}
+
 .foodList{
     display: flex;
     flex-direction: row;
@@ -9,11 +13,13 @@
 
 .sections{
     font-family: 'Noto Sans TC', sans-serif; 
-    border: 2px solid black;
+    border: 2px solid  rgb(199, 199, 199);
     padding-top: 20px;
     width: 250px;
     flex-basis: 10%;
     margin: 14px;
     text-align: center;
     text-transform: uppercase;
+    color: white;
+    border-radius: 3px;
 }
