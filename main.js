@@ -6,7 +6,6 @@ function appendAndCreateElements(name, type, ethnic){
     let foodName = document.createElement("h1");
     let foodType = document.createElement("p");
     let foodEthnicity = document.createElement("p");
-
     // Appending elements and then adding the text (ORDER MATTERS)
     container.appendChild(foodSections);
 
