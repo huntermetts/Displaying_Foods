@@ -5,14 +5,14 @@
       "name": "Linguine",
       "type": "pasta",
       "ethnicity": "italian",
-      "barcode": "8076809523509"
+      "barcode": "00286565"
     },
     {
       "id": 2,
       "name": "Massaman curry",
       "type": "curry",
       "ethnicity": "thai",
-      "barcode": "3270160868681"
+      "barcode": "0016229008635"
     },
     {
       "id": 3,
@@ -26,7 +26,7 @@
       "name": "Ravioli Funghi",
       "type": "pasta",
       "ethnicity": "italian",
-      "barcode": "8001665127585"
+      "barcode": "0008005159709"
     },
     {
       "id": 5,
@@ -40,21 +40,21 @@
       "type": "taco",
       "ethnicity": "mexican",
       "id": 6,
-      "barcode": "8410076472656"
+      "barcode": "0011110849083"
     },
     {
       "name": "icecream",
       "type": "treat",
       "ethnicity": "iceland",
       "id": 8,
-      "barcode": "0076840600038"
+      "barcode": "0036800290853"
     },
     {
       "name": "yogurt",
       "type": "dairy",
       "ethnicity": "greenland",
       "id": 9,
-      "barcode": "3023290634578"
+      "barcode": "0036632036506"
     },
     {
       "name": "banana",
@@ -68,7 +68,7 @@
       "type": "beverage",
       "ethnicity": "the factory",
       "id": 11,
-      "barcode": "3596710284542"
+      "barcode": "0011110484802"
     }
   ]
 }
